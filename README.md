@@ -1,1 +1,1 @@
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/noelrubio143/xuiamber/refs/heads/main/install.sh)
